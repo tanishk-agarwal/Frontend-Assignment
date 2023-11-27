@@ -8,7 +8,7 @@ The aim was to create a React application that is capable of generating dynamic 
 
 ## Demo
 
-The live demo for the app can be viewed at: [Click here](https://truefoundary-assignment.netlify.app/)
+The live demo for the app can be viewed at: [Click here](https://dynamic-form-maker.netlify.app/)
 
 
 ## Screenshots
