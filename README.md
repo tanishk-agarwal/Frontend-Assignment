@@ -14,18 +14,18 @@ The live demo for the app can be viewed at: [Click here](https://dynamic-form-ma
 ## Screenshots
 
 - Home page
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-18-19.png?alt=media&token=8efc16cd-de80-4d6e-978c-ec45988404d0)
+![Screenshot from 2023-11-27 17-23-06](https://github.com/tanishk-agarwal/Frontend-Assignment/assets/88491381/c2c60172-2bee-4194-bd37-6376efc3bdd1)
 
 - Advanced Options
-
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-18-49.png?alt=media&token=32d9a286-f747-4b6a-bf16-4d98c74a0527)
+![Screenshot from 2023-11-27 17-27-35](https://github.com/tanishk-agarwal/Frontend-Assignment/assets/88491381/ff8244ad-2652-4dde-a164-37fd2aa1ad02)
 
 - Form Submission
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-19-13.png?alt=media&token=cde10a7f-24fb-47f9-b53f-eddc203e424a)
+![Screenshot from 2023-11-27 17-27-52](https://github.com/tanishk-agarwal/Frontend-Assignment/assets/88491381/97650ef7-8a19-4ad2-b21b-81232f1a94a1)
 
 
 - Incorrect JSON schema
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-b8622.appspot.com/o/True%20foundary%20assignment%2FScreenshot%20from%202023-04-25%2000-23-54.png?alt=media&token=cc730f27-ad42-467f-89e5-927104783e85)
+![Screenshot from 2023-11-27 17-28-10](https://github.com/tanishk-agarwal/Frontend-Assignment/assets/88491381/a6c58eae-6dde-4093-9a04-2f274105c16c)
+
 
 ## Setting up
 
